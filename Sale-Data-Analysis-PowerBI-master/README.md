@@ -1,15 +1,5 @@
 ## Sales Data Analysis with SQL and Power BI
 
-### Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI.git
-```
-
-Go to the project directory and open ``` .pbix ``` file with Microsoft Power BI Desktop
-
 ### Data Analysis Using SQL
 
 1. Show all customer records
@@ -53,9 +43,9 @@ and transactions.market_code="Mark001";`
 Power BI Dashboard Preview
 ============================
 
-![Page1](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/Sales-key-insight.png)
-![Page2](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/sales-profit-analysis.png)
-![Page3](https://github.com/deepamkalekar/Sale-Data-Analysis-PowerBI/blob/master/sales-performance-insight.png)
+![Page1](https://github.com/Gayatri-0812/Sales-Data-Analysis/blob/main/Sale-Data-Analysis-PowerBI-master/Sales-key-insight.png)
+![Page2](https://github.com/Gayatri-0812/Sales-Data-Analysis/blob/main/Sale-Data-Analysis-PowerBI-master/sales-performance-insight.png)
+![Page3](https://github.com/Gayatri-0812/Sales-Data-Analysis/blob/main/Sale-Data-Analysis-PowerBI-master/sales-profit-analysis.png)
 
 
 
